@@ -24,8 +24,6 @@
 | 2 | Stock Price Prediction | ✅ Complete | yFinance, Scikit-learn |
 | 3 | Heart Disease Prediction | ✅ Complete | Scikit-learn, Seaborn |
 | 4 | Health Query Chatbot | ✅ Complete | Gradio, Requests |
-| 5 | Mental Health Chatbot | ⏭️ Skipped | Requires GPU |
-| 6 | House Price Prediction | ⏭️ Skipped | — |
 
 ---
 
